@@ -6,5 +6,5 @@
 * Trying Markdown text
 * Hope to complete it very fast
 
-This will help you bold the text *** Semester related to Data mining ***
+This will help you bold the text **Semester related to Data mining**
 Here we shall target to italise the text *How does it look*.
